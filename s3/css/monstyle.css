@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap');
+div:first-child{
+    background-color: #ff6600;
+    height: 190px;
+}
+div:nth-child(2){
+background-color: #fff;
+height: 190px;
+}
+div:nth-child(3){
+    background-color: #4c4c4c;
+    height: 190px;
+}
+h1{
+    text-align: center;
+    font-size: 70px;
+}

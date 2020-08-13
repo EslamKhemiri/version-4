@@ -1,0 +1,30 @@
+p{
+    color: #ff0000;
+}
+.c2{
+    font-family: cursive;
+}
+
+.bleu{
+    color: blue;
+}
+p.vert{
+    color: green;
+}
+div .mc1{
+    font-family: cursive;
+}
+.btn{
+    border: 1px solid #000;
+    padding: 5px 20px;
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: ease 0.5s;
+    border-radius: 0;
+    background-color: #fff;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: #000;
+    color: #fff;
+}
